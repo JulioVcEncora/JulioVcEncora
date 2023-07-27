@@ -10,7 +10,7 @@ Most used languages
 Account stats
 ---
 ![Julio's Personal GitHub stats](https://github-readme-stats.vercel.app/api?username=juliovillalvazo&show_icons=true&theme=tokyonight&custom_title=Personal_Account)
-![Julio's Profesional GitHub stats](https://github-readme-stats.vercel.app/api?username=juliovillalvazo&show_icons=true&theme=tokyonight&custom_title=Encora_Account)
+![Julio's Profesional GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioVcEncora&show_icons=true&theme=tokyonight&custom_title=Encora_Account)
 
 Frameworks I work the most with
 ---
